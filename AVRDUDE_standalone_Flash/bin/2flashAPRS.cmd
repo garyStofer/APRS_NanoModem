@@ -1,1 +1,1 @@
-avrdude -v -p m328p -c arduino -PCOM4 -b57600   -U flash:w:..\..\Software\MicroAPRS\precompiled\microaprs-5v-ss-latest.hex:i
+avrdude -v -p m328p -c arduino -PCOM7 -b57600   -U flash:w:..\..\Software\MicroAPRS\precompiled\microaprs-5v-ss-latest.hex:i
